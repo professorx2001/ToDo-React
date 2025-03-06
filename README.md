@@ -1,12 +1,40 @@
-# React + Vite
+# ToDo-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ToDo-React is a simple and interactive To-Do List application built with React.  
+It allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently.
 
-Currently, two official plugins are available:
+<img width="703" alt="Quick snap of this working project" src="https://github.com/user-attachments/assets/b2d5cb93-d4aa-4984-9a94-afc3390a8814" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Add tasks with categories and due dates.
+- Mark tasks as completed or undo them.
+- Edit existing tasks.
+- Delete tasks.
+- Data is saved in localStorage, ensuring persistence after refresh.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/professorx2001/ToDo-React.git
+   ```
+2. **Navigate to the project directory:**
+
+    ```bash
+   cd ToDo-React
+    ```
+3. **Install the dependencies:**
+   
+   ```bash
+   npm install
+
+    ```
+5. **Start the development server:**
+   
+   ```bash
+   npm run dev
+    ```
