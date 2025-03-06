@@ -38,3 +38,4 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
     ```
+## Thanks to Hitesh Choudhary, Sir, for this amazing UI and such great Lectures on ContextAPI( React )
