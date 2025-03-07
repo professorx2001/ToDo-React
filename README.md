@@ -1,6 +1,6 @@
 # ToDo-React
 
-ToDo-React is a simple and interactive To-Do List application built with React.  
+A simple and interactive To-Do List application built with React.  
 It allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently.
 
 <img width="703" alt="Quick snap of this working project" src="https://github.com/user-attachments/assets/b2d5cb93-d4aa-4984-9a94-afc3390a8814" />
@@ -38,4 +38,3 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
     ```
-## Thanks to Hitesh Choudhary, Sir, for this amazing UI and such great Lectures on ContextAPI( React )
